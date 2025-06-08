@@ -16,13 +16,13 @@ Create a *stunning Netflix clone* using *HTML, CSS, and JavaScript* — complete
 
 Here's a preview of the site:
 
-<p align="center">  <img src="https://github.com/user-attachments/assets/c7d0b3df-2c7d-4504-9b5f-8c84f03d0dd6" alt="Screenshot 1" width="920" height="520" /> </p>
-<p align="center">  <img src="https://github.com/user-attachments/assets/55bab4d2-78d6-4bd8-b8d7-37446eed570a" alt="Screenshot 2" width="920" height="420" /> </p>
-<p align="center">  <img src="https://github.com/user-attachments/assets/43262c24-74a5-484f-88c6-4e16ab8916cb" alt="Screenshot 3" width="920" height="420" /> </p>
-<p align="center">  <img src="https://github.com/user-attachments/assets/593a2a7c-d414-412e-ac83-61a1baeb6354" alt="Screenshot 4" width="920" height="420" /> </p>
-<p align="center">  <img src="https://github.com/user-attachments/assets/7c6e07fc-2346-4daa-b73d-38d0e190d6bf" alt="Screenshot 5" width="920" height="420" /> </p>
-<p align="center">  <img src="https://github.com/user-attachments/assets/a4be7792-7521-4ff8-aff7-ff871cc067eb" alt="Screenshot 6" width="920" height="520" /> </p>
-<p align="center">  <img src="https://github.com/user-attachments/assets/523e70fa-9fa7-41c6-832d-e4056dbf579a" alt="Screenshot 7" width="920" height="320" /> </p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/7e4629ed-af87-4588-a85d-bbe6e7257910" alt="Screenshot 1" width="920" height="520" /> </p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/bc853353-1623-4d8f-b0f1-0eb737abd0f2" alt="Screenshot 2" width="920" height="420" /> </p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/32a32a20-0f3a-4357-b376-6b6ba5d565ac" alt="Screenshot 3" width="920" height="420" /> </p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/0d845926-ac24-4031-90c2-c59736a30d36" alt="Screenshot 4" width="920" height="420" /> </p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/c708c2da-c092-47b9-baa6-03cca70adf19" alt="Screenshot 5" width="920" height="420" /> </p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/4c946748-8896-46e8-8703-af18054075d8" alt="Screenshot 6" width="920" height="520" /> </p>
+<p align="center">  <img src="https://github.com/user-attachments/assets/5ded59ac-1a88-442e-8981-62c94726b864" alt="Screenshot 7" width="920" height="320" /> </p>
 
  
 ## 🚀 Live Demo
